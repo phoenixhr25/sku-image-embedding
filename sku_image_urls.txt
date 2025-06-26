@@ -1,0 +1,2 @@
+sku001,https://storage.googleapis.com/mediapipe-assets/image_embedder/cat.jpg
+sku002,https://storage.googleapis.com/mediapipe-assets/image_embedder/cat.jpg
