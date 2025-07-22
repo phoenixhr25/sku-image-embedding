@@ -40,4 +40,4 @@ sku002,https://storage.googleapis.com/mediapipe-assets/image_embedder/cat.jpg
 
 ## 👤 Author
 
-Avery · External Brain Project · 2025
+Phoenix Hui · External Brain Project · 2025
